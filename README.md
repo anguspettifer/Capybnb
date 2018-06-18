@@ -1,4 +1,4 @@
-Team capybaras
+Goose's edit
 
 Objectives/commitments:
 - Learning to work as a team
