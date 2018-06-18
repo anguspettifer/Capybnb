@@ -27,5 +27,6 @@ Tech Stack
 - This is MVP tech stack
 - Javascript/Jquery/HTML
 
-Organisational strategy
+Organizational strategy
 - Use trello
+- Have fun!
