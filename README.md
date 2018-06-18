@@ -1,8 +1,7 @@
-<<<<<<< HEAD
+
 Goose's edit
 =======
 # Team capybaras
->>>>>>> fda496f7799bee867c7b31a4321dfe74f9a864cd
 
 Objectives/commitments:
 - Learning to work as a team
@@ -37,4 +36,3 @@ Organizational strategy
 =======
 
 - Have fun!
-
