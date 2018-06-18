@@ -8,6 +8,7 @@ Objectives/commitments:
 - TDD
 - Mix of pairing and self-learning
 - MVP ==> very M
+- Team lunch on friday
 
 Routine we are agreed to
 - 9:30 standup
