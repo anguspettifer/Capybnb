@@ -8,6 +8,6 @@
 4) Run `npx cypress open` - should open cypress
 5) Set up project (login with Github)
 6) Edit `cypress.json` (with specific details)
-7) Make sure our page is being served via a host
+7) Create a test...
 
 [Cypress syntax documentation](https://docs.cypress.io/api/commands/click.html#Syntax)
