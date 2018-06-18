@@ -3,7 +3,6 @@ Goose's edit
 =======
 # Team capybaras
 
-
 Objectives/commitments:
 - Learning to work as a team
 - Don’t get blocked on something for more than 30mins
@@ -37,4 +36,3 @@ Organizational strategy
 =======
 
 - Have fun!
-
