@@ -1,4 +1,8 @@
+
 Goose's edit
+=======
+# Team capybaras
+
 
 Objectives/commitments:
 - Learning to work as a team
@@ -7,8 +11,8 @@ Objectives/commitments:
 - Checkin on team welfare, incl end of week feedback
 - TDD
 - Mix of pairing and self-learning
-- MVP ==> very M
-- Team lunch on friday
+- MVP ==> very M (or very V?)
+- Team lunch (with alcohol?) on Friday
 
 Routine we are agreed to
 - 9:30 standup
@@ -27,5 +31,10 @@ Tech Stack
 - This is MVP tech stack
 - Javascript/Jquery/HTML
 
-Organisational strategy
-- Use troll
+Organizational strategy
+- Use trello
+
+=======
+
+- Have fun!
+
