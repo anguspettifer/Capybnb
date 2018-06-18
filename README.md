@@ -29,3 +29,6 @@ Tech Stack
 
 Organisational strategy
 - Use troll
+
+
+CHARLOTTE WAS HERE!!!!!
