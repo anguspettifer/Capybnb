@@ -37,4 +37,3 @@ Organizational strategy
 =======
 
 - Have fun!
-
