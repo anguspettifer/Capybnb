@@ -1,7 +1,5 @@
 # Team capybaras
 
-Has this even worked?
-
 Objectives/commitments:
 - Learning to work as a team
 - Don’t get blocked on something for more than 30mins
