@@ -1,0 +1,19 @@
+{
+  "name": "capybnb",
+  "version": "1.0.0",
+  "description": "Goose's edit ======= # Team capybaras",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anguspettifer/Capybnb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anguspettifer/Capybnb/issues"
+  },
+  "homepage": "https://github.com/anguspettifer/Capybnb#readme"
+}
