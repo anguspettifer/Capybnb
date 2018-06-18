@@ -29,4 +29,8 @@ Tech Stack
 
 Organizational strategy
 - Use trello
+
+=======
+
 - Have fun!
+
