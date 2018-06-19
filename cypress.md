@@ -9,5 +9,6 @@
 5) Set up project (login with Github)
 6) Edit `cypress.json` (with specific details)
 7) Create a test...
+8) To run a test `npm run cypress:open` (you must had done step 6 for this to work)
 
 [Cypress syntax documentation](https://docs.cypress.io/api/commands/click.html#Syntax)
