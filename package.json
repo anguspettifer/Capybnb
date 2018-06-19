@@ -1,4 +1,8 @@
 {
+
+  "scripts": {
+   "cypress:open": "cypress open"
+ },
   "name": "capybnb",
   "version": "1.0.0",
   "description": "Goose's edit ======= # Team capybaras",
@@ -16,4 +20,5 @@
     "url": "https://github.com/anguspettifer/Capybnb/issues"
   },
   "homepage": "https://github.com/anguspettifer/Capybnb#readme"
+
 }
