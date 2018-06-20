@@ -1,13 +1,29 @@
 <!DOCTYPE html>
+<html>
 <head>
   <title>Capybnb</title>
 </head>
 <body>
+  <script
+     src="https://code.jquery.com/jquery-3.3.1.min.js"
+     integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+     crossorigin="anonymous"></script>
+<section>
   <h1>Room with Pool!</h1>
+
   <h3> Contact me at:
     <a href="mailto:mrcapybara@gmail.com">
     mrcapybara@gmail.com </a>
   </h3>
   <img src="image.png" />
-  <h3> Room Description: Awesome poolside room with plenty of sun. Space for 2 capybaras. Lots of great night life and black our shades so you can sleep peacefully during the day. Grass, fruits and soft tree bark available for breakfast. </h3>
+
+  <p id='property-description'>
+  </p>
+<form id='add-property-description'>
+  <input id='description' type='text' placeholder='Banging apartment!' autocomplete='off'></input>
+  <input type='submit' value='Capybnb!'>
+</section>
+  <script src="src/AddContent.js"></script>
+  <script src="src/interface.js"></script>
 </body>
+</html>
