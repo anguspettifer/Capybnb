@@ -2,7 +2,6 @@ describe('Viewing a listing', function() {
 
   it('checks for "room with a pool content"', function() {
      cy.visit('http://127.0.0.1:8080/')
-     cy.click(Submit)
      cy.contains('Room with Pool!')
      })
 
@@ -12,11 +11,9 @@ describe('Viewing a listing', function() {
   })
 
 
-  xit('clicks on the contact email link', function() {
+  it('clicks on the contact email link', function() {
       cy.contains('mrcapybara@gmail.com').click()
      })
-
-
 
 
 });
