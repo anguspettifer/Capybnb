@@ -1,12 +1,6 @@
 $(document).ready( function () {
   var addContent = new AddContent();
 
-  $('#addtitle').click(function(){
-    event.preventdefault();
-    var title = $('#title').val();
-    $('#display-title').text(title);
-  })
-
   $('#add-property').submit( function(event) {
     event.preventDefault();
     var title = $('#title').val();
