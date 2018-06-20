@@ -8,10 +8,15 @@ describe('AddContent', function() {
     addContent = new AddContent();
   });
 
-  it('can add a description of a property', function() {
-    addContent.addDescription("Banging apartment!")
+  it('can add a title for a property', function() {
+    addContent.addTitle("Capybara Nest");
+    expect(addContent.getTitle()).toContain("Capybara Nest");
+  });
 
-    expect(addContent.getDescription()).toContain("Banging apartment!");
+  it('can add a description of a property', function() {
+    addContent.addDescription("Space for two");
+
+    expect(addContent.getDescription()).toContain("Space for two");
   });
 
 });

@@ -9,11 +9,18 @@
      integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
      crossorigin="anonymous"></script>
 <section>
-   Listing Title:<br>
-  <input type="text" id="title"></input>
-  <input type="submit" id="addtitle"></input>
+   Listing:<br>
+
+<form id='add-property'>
+  <input id='title' type='text' placeholder="Title" autocomplete='off'></input>
+  <input id='description' type='text' placeholder='Description' autocomplete='off'></input>
+  <input type='submit' value='Capybnb!'>
+</form>
 
   <h2> Title: <span id="display-title" ></span></h2>
+
+  <p> Description: <span id='display-description'></span>
+  </p>
 
   <h3> Contact me at:
     <a href="mailto:mrcapybara@gmail.com">
@@ -21,11 +28,6 @@
   </h3>
   <img src="image.png" />
 
-  <p id='property-description'>
-  </p>
-<form id='add-property-description'>
-  <input id='description' type='text' placeholder='Banging apartment!' autocomplete='off'></input>
-  <input type='submit' value='Capybnb!'>
 </section>
   <script src="src/AddContent.js"></script>
   <script src="src/interface.js"></script>

@@ -1,15 +1,11 @@
 {
-
   "scripts": {
-   "cypress:open": "cypress open"
- },
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "name": "capybnb",
   "version": "1.0.0",
   "description": "Goose's edit ======= # Team capybaras",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/anguspettifer/Capybnb.git"
@@ -19,6 +15,8 @@
   "bugs": {
     "url": "https://github.com/anguspettifer/Capybnb/issues"
   },
-  "homepage": "https://github.com/anguspettifer/Capybnb#readme"
-
+  "homepage": "https://github.com/anguspettifer/Capybnb#readme",
+  "devDependencies": {
+    "cypress": "^3.0.1"
+  }
 }
