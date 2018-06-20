@@ -4,24 +4,18 @@ describe('Add a property', function() {
      cy.get('#addtitle').type('Room with a tennis court!{enter}')
      cy.contains('Room with a tennis court!')
   })
+
+  it('completes the email form', function() {
+    cy.visit('http://127.0.0.1:8080/')
+    cy.get('#email').type('example@example.com')
+    cy.get('#submit').submit()
+    cy.contains('example@example.com')
+  })
+
+  it('adds an image', function() {
+    cy.visit('http://127.0.0.1:8080/')
+    cy.get('#upload img')
+    .should('have.attr', 'src')
+  })
+
 });
-
-
-
-// describe('Viewing a listing', function() {
-//
-//   it('checks for "room with a pool content"', function() {
-//      cy.visit('http://127.0.0.1:8080/')
-//      cy.contains('Room with Pool!')
-//      })
-//
-//   it('clicks on the contact email link', function() {
-//       cy.contains('mrcapybara@gmail.com').click()
-//      })
-//
-//   it('contains an image', function() {
-//
-//   })
-//
-//
-// });
