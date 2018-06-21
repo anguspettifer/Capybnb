@@ -1,35 +1,37 @@
 <!DOCTYPE html>
 <html lang="ens">
 <head>
-  <title>Capybnb</title
-</head>
-<body>
+  <title>Capybnb</title>
   <script
      src="https://code.jquery.com/jquery-3.3.1.min.js"
      integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
      crossorigin="anonymous"></script>
+</head>
+<body>
 <section>
-   Listing:<br>
+  <h1> Welcome to Capybnb!</h1><br></br>
 
+  <h1> Add a new Listing: </h1>
+   Listing:<br>
 <form id='add-property'>
   <input id='title' type='text' placeholder="Title" autocomplete='off'></input>
   <input id='description' type='text' placeholder='Description' autocomplete='off'></input>
   <input type='submit' value='Capybnb!'>
-</form>
+</form><br></br>
 
+<h1> Available Properties: </h1>
   <h2> Title: <span id="display-title" ></span></h2>
+  <img src="/images/image.png">
 
-  <p> Description: <span id='display-description'></span>
-  </p>
+  <h3> Description: <span id='display-description'></span></h3>
 
   <h3> Contact me at:
     <a href="mailto:mrcapybara@gmail.com">
     mrcapybara@gmail.com </a>
   </h3>
-  <img src="image.png" />
 
 </section>
-  <script src="src/AddContent.js"></script>
-  <script src="src/interface.js"></script>
+  <script src="/javascripts/AddContent.js"></script>
+  <script src="/javascripts/interface.js"></script>
 </body>
 </html>
