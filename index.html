@@ -8,25 +8,48 @@
      src="https://code.jquery.com/jquery-3.3.1.min.js"
      integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
      crossorigin="anonymous"></script>
+     <script type="text/javascript" src="https://cdn.jsdelivr.net/jquery/latest/jquery.min.js"></script>
 <section>
-   Listing:<br>
+  <p> Listing:</p>
 
 <form id='add-property'>
   <input id='title' type='text' placeholder="Title" autocomplete='off'></input>
   <input id='description' type='text' placeholder='Description' autocomplete='off'></input>
-  <input type='submit' value='Capybnb!'>
-</form>
+<p>
+
+    <legend>Choose your property's availability:</legend>
+
+    <div id ='startdate'>
+        <label for="start">Start</label>
+        <input type="date" id="start" name="trip"
+               value="2018-07-22"
+               min="2018-01-01" max="2018-12-31" />
+    </div>
+
+    <div id ='enddate'>
+        <label for="end">End</label>
+        <input type="date" id="end" name="trip"
+               value="2018-07-29"
+               min="2018-01-01" max="2018-12-31"/ >
+    </div>
+
+
+</p>
+    <p><input type='submit' value='Capybnb!'></p>
+  </form>
 
   <h2> Title: <span id="display-title" ></span></h2>
 
-  <p> Description: <span id='display-description'></span>
-  </p>
+  <p> Description: <span id='display-description'></span></p>
+  <p> Availability: </p>
 
   <h3> Contact me at:
     <a href="mailto:mrcapybara@gmail.com">
     mrcapybara@gmail.com </a>
   </h3>
+
   <img src="image.png" />
+
 
 </section>
   <script src="src/AddContent.js"></script>
