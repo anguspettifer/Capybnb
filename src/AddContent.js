@@ -3,7 +3,8 @@
 function AddContent() {
   this.description = {};
   this.title = {};
-  this.startdate = {};
+  this.startDate = {};
+  this.endDate = {};
 };
 
 AddContent.prototype.addDescription = function (description) {
@@ -22,10 +23,18 @@ AddContent.prototype.getTitle = function () {
   return this.title;
 };
 
-AddContent.prototype.getDate = function () {
-  this.startdate = startdate;
+AddContent.prototype.addStartDate = function (startDate) {
+  this.startDate = startDate;
 };
 
-AddContent.prototype.addDate = function () {
-  return this.startdate;
+AddContent.prototype.getStartDate = function () {
+  return this.startDate;
+};
+
+AddContent.prototype.addEndDate = function (endDate) {
+  this.endDate = endDate;
+};
+
+AddContent.prototype.getEndDate = function () {
+  return this.endDate;
 };
