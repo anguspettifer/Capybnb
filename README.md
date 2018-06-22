@@ -1,4 +1,4 @@
-# Team capybaras
+# Team Capybaras
 This is a web based temporary letting site where a property owner (a capybara) can list a home available to rent.
 The property owner can add a single title, description, contact email and set of available dates for rent.
 A visitor to the site can add view these details and get in touch with the property owner via email.
@@ -53,9 +53,9 @@ jQuery for page interaction and HTML/CSS styling using Bootstrap.
 1. Input property info via form fields (title, description, emails, dates)
 2. User in-put is then displayed
 3. Property image is displayed
-![IMG](README Images/Capybnb Form.JPG)
+[IMG]('README Images/Capybnb Form.JPG')
 
-![IMG](README Images/Capybnb Blank Property Listing.JPG)
+[IMG]('README Images/Capybnb Blank Property Listing.JPG')
 
 ### Code Example:
 Extract from the codebase:
@@ -128,7 +128,7 @@ __Team Working Routine Agreed to:__
 - Meditation and yoga for self care
 
 __Example Mid Project Planning Session__
-![IMG](README Images/Example Team Capybnb Planning Session.JPG)
+[IMG]('README Images/Example Team Capybnb Planning Session.JPG')
 
 __Reflection on the Week__
 
@@ -157,7 +157,7 @@ __Reflection on the Week__
   3. Git process
   4. Ask coach for code review
 - End of Week Retro:
-![IMG](README Images/End of Week Retro.JPG)
+[IMG]('README Images/End of Week Retro.JPG')
 
 =======
 
