@@ -53,9 +53,9 @@ jQuery for page interaction and HTML/CSS styling using Bootstrap.
 1. Input property info via form fields (title, description, emails, dates)
 2. User in-put is then displayed
 3. Property image is displayed
-[IMG](READMEImages/CapybnbForm.PNG)
+![IMG](READMEImages/CapybnbForm.PNG)
 
-[IMG](READMEImages/CapybnbBlankPropertyListing.PNG)
+![IMG](READMEImages/CapybnbBlankPropertyListing.PNG)
 
 ### Code Example:
 Extract from the codebase:
@@ -128,7 +128,7 @@ __Team Working Routine Agreed to:__
 - Meditation and yoga for self care
 
 __Example Mid Project Planning Session__
-[IMG](READMEImages/ExampleTeamCapybnbPlanningSession.JPG)
+![IMG](READMEImages/ExampleTeamCapybnbPlanningSession.JPG)
 
 __Reflection on the Week__
 
@@ -157,7 +157,7 @@ __Reflection on the Week__
   3. Git process
   4. Ask coach for code review
 - End of Week Retro:
-[IMG](READMEImages/EndofWeekRetro.JPG)
+![IMG](READMEImages/EndofWeekRetro.JPG)
 
 =======
 
