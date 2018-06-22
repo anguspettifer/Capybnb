@@ -28,7 +28,7 @@ describe('AddContent', function() {
   });
 
   it('can add the end date specified by the letter', function() {
-    addContent.addEndDate("2018-07-03");
+    addContent.addEndDate("2018-08-03");
     expect(addContent.getEndDate()).toContain("2018-08-03");
   });
 
