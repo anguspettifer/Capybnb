@@ -8,11 +8,64 @@
      src="https://code.jquery.com/jquery-3.3.1.min.js"
      integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
      crossorigin="anonymous"></script>
-</head>
-<body>
+<<<<<<< HEAD
+   </head>
+   <body>
+   <section>
+     <br>
+     <h1> Welcome to Capybnb!</h1><br></br>
+=======
+>>>>>>> 597f54a99a308783bc4e65056ae48000d145c1d7
+     <script type="text/javascript" src="https://cdn.jsdelivr.net/jquery/latest/jquery.min.js"></script>
 <section>
-  <br>
-  <h1> Welcome to Capybnb!</h1><br></br>
+  <p> Listing:</p>
+
+<form id='add-property'>
+  <input id='title' type='text' placeholder="Title" autocomplete='off'></input>
+  <input id='description' type='text' placeholder='Description' autocomplete='off'></input>
+<p>
+
+    <legend>Choose your property's availability:</legend>
+
+    <div id ='startdate'>
+        <label for="start">Start</label>
+        <input type="date" id="start" name="trip"
+               value="2018-07-22"
+               min="2018-01-01" max="2018-12-31" />
+    </div>
+
+    <div id ='enddate'>
+        <label for="end">End</label>
+        <input type="date" id="end" name="trip"
+               value="2018-07-29"
+               min="2018-01-01" max="2018-12-31"/ >
+    </div>
+
+
+</p>
+    <p><input type='submit' value='Capybnb!'></p>
+  </form>
+
+    <legend>Choose your property's availability:</legend>
+
+    <div id ='startdate'>
+        <label for="start">Start</label>
+        <input type="date" id="start" name="trip"
+               value="2018-07-22"
+               min="2018-01-01" max="2018-12-31" />
+    </div>
+
+    <div id ='enddate'>
+        <label for="end">End</label>
+        <input type="date" id="end" name="trip"
+               value="2018-07-29"
+               min="2018-01-01" max="2018-12-31"/ >
+    </div>
+
+
+</p>
+    <p><input type='submit' value='Capybnb!'></p>
+  </form>
 
 <div class="card">
   <div class="card-body">
@@ -35,12 +88,28 @@
   </div>
 </div><br>
 
+
 <h2> Available Properties: </h2>
   <h3> Title: <span id="display-title" ></span></h3>
   <h3> Description: <span id='display-description'></span></h3>
   <h3> Email: <span id='display-email'></span></h3>
   <h3> Photo: </h3>
   <img src="/images/image.png">
+  <p> Availability: <span id='display-start-date'></span> - <span id='display-end-date'></span</p>
+
+<<<<<<< HEAD
+
+=======
+  <p> Description: <span id='display-description'></span></p>
+  <p> Availability: <span id='display-start-date'></span> - <span id='display-end-date'></span</p>
+
+  <h3> Contact me at:
+    <a href="mailto:mrcapybara@gmail.com">
+    mrcapybara@gmail.com </a>
+  </h3>
+
+  <img src="image.png" />
+>>>>>>> 597f54a99a308783bc4e65056ae48000d145c1d7
 
 
 </section>

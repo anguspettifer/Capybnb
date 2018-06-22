@@ -3,7 +3,6 @@
 function AddContent() {
   this.description = {};
   this.title = {};
-  this.email = {};
   this.startDate = {};
   this.endDate = {};
 };
@@ -22,15 +21,6 @@ AddContent.prototype.addTitle = function (title) {
 
 AddContent.prototype.getTitle = function () {
   return this.title;
-};
-
-
-AddContent.prototype.addEmail = function (email) {
-  this.email = email;
-};
-
-AddContent.prototype.getEmail = function () {
-  return this.email;
 };
 
 AddContent.prototype.addStartDate = function (startDate) {
