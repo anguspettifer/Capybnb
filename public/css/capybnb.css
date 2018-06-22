@@ -1,0 +1,36 @@
+h1{
+  font-size:60px;
+  text-align: center;
+}
+
+h2{
+  font-size:25px;
+}
+
+h3{
+  font-size:20px;
+}
+
+#description, #title, #email {
+  width: 100%;
+}
+
+img{
+  width:100%;
+  height:auto;
+}
+
+body{
+  width: 650px;
+  margin: 0 auto;
+  text-align: left;
+  background-color: lightgrey;
+}
+
+#add-property{
+  /* align: center; */
+  width: 600px;
+  /* margin: 0 auto; */
+  text-align: left;
+  /* border: 6px solid green;  */
+}
