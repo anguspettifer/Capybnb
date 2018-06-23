@@ -52,7 +52,7 @@ jQuery for page interaction and HTML/CSS styling using Bootstrap.
 ### Features:
 1. Input property info via form fields (title, description, emails, dates)
 2. User in-put is then displayed
-3. Property image is displayed
+3. Property image is displayed</br>
 ![alt text](https://github.com/anguspettifer/Capybnb/blob/master/READMEImages/CapybnbForm.png "CapybnbForm")
 
 ![alt text](https://github.com/anguspettifer/Capybnb/blob/master/READMEImages/Capybnb%20Blank%20Property%20Listing.png "CapybnbBlankProperty")
