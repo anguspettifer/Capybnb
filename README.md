@@ -37,7 +37,7 @@ Entry point is index.js
 Unit and feature tests all passing
 
 ### Intended next steps:
-1. User be able to upload an images
+1. User be able to upload images for a property
 2. Website able to accommodate multiple listings with database integration
 3. Login for property owners
 
