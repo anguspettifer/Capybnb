@@ -52,7 +52,7 @@ jQuery for page interaction and HTML/CSS styling using Bootstrap.
 ### Features:
 1. Input property info via form fields (title, description, emails, dates)
 2. User in-put is then displayed
-3. Property image is displayed </br>
+3. Property image is displayed
 ![alt text](https://github.com/anguspettifer/Capybnb/blob/master/READMEImages/CapybnbForm.png "CapybnbForm")
 
 ![alt text](https://github.com/anguspettifer/Capybnb/blob/master/READMEImages/Capybnb%20Blank%20Property%20Listing.png "CapybnbBlankProperty")
@@ -128,7 +128,7 @@ __Team Working Routine Agreed to:__
 - Meditation and yoga for self care
 
 __Example Mid Project Planning Session__
-![Alt text](./READMEImages/ExampleTeamCapybnbPlanningSession.JPG)
+![alt text](https://github.com/anguspettifer/Capybnb/blob/master/READMEImages/ExampleTeamCapybnbPlanningSession.jpg "Team planning session")
 
 __Reflection on the Week__
 
@@ -157,8 +157,4 @@ __Reflection on the Week__
   3. Git process
   4. Ask coach for code review
 - End of Week Retro:
-![Alt text](./READMEImages/EndofWeekRetro.JPG)
-
-=======
-
-- Have fun!
+![alt text](https://github.com/anguspettifer/Capybnb/blob/master/READMEImages/EndofWeekRetro.jpg "end of week retro")
